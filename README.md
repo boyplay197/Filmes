@@ -1,37 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <title>Galeria de Filmes Favoritos</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            text-align: center;
-        }
-        h1 {
-            margin-top: 20px;
-        }
-        .galeria {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            gap: 20px;
-            padding: 20px;
-        }
-        .galeria a {
-            text-decoration: none;
-        }
-        .galeria img {
-            width: 200px;
-            height: 300px;
-            object-fit: cover;
-            border-radius: 10px;
-            transition: transform 0.3s;
-        }
-        .galeria img:hover {
-            transform: scale(1.05);
-        }
+<html lang="pt-BR"> 
     </style>
 </head>
 <body>
