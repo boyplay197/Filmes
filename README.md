@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="pt-BR"> 
-    </style>
 </head>
 <body>
     <h1>Meus Filmes Favoritos</h1>
