@@ -5,7 +5,7 @@
     <h1>Meus Filmes Favoritos</h1>
     <div class="galeria">
         <a href="https://pt.wikipedia.org/wiki/Interestelar" target="_blank">
-            <img src="imagens/Interestelar.jpg" alt="Interestelar">
+            <img src="imagens/Interestelar.jpeg" alt="Interestelar">
         </a>
         <a href="https://pt.wikipedia.org/wiki/O_Senhor_dos_An%C3%A9is:_A_Sociedade_do_Anel" target="_blank">
             <img src="imagens/Senhor-dos-Anéis.jpg" alt="O Senhor dos Anéis">
